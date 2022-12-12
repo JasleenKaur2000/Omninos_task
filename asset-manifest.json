@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Omninos_task/static/css/main.90b09b0f.css",
+    "main.js": "/Omninos_task/static/js/main.c10e9875.js",
+    "static/js/787.c6a9a21d.chunk.js": "/Omninos_task/static/js/787.c6a9a21d.chunk.js",
+    "index.html": "/Omninos_task/index.html",
+    "main.90b09b0f.css.map": "/Omninos_task/static/css/main.90b09b0f.css.map",
+    "main.c10e9875.js.map": "/Omninos_task/static/js/main.c10e9875.js.map",
+    "787.c6a9a21d.chunk.js.map": "/Omninos_task/static/js/787.c6a9a21d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90b09b0f.css",
+    "static/js/main.c10e9875.js"
+  ]
+}
